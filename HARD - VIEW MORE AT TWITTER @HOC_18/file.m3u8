@@ -4,5 +4,5 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
 #EXTINF:3,
-https://raw.githubusercontent.com/sssex18/hls/main/HAfile-0-3000.ts
+https://rawfile-0-3000.ts
 #EXT-X-ENDLIST
