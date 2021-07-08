@@ -4,5 +4,5 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
 #EXTINF:3,
-https://rawfile-0-3000.ts
+file-0-3000.ts
 #EXT-X-ENDLIST
